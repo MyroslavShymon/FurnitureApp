@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\obj\\Debug\\net7.0\\compressed\\ml2ij53lce.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FurnitureProjectTeam.Client.styles.css",
+      "PackagePath": "staticwebassets\\FurnitureProjectTeam.Client.styles.css"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FurnitureProjectTeam.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FurnitureProjectTeam.Client.props",
+      "PackagePath": "build\\FurnitureProjectTeam.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FurnitureProjectTeam.Client.props",
+      "PackagePath": "buildMultiTargeting\\FurnitureProjectTeam.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FurnitureProjectTeam.Client.props",
+      "PackagePath": "buildTransitive\\FurnitureProjectTeam.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

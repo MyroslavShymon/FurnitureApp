@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ECS1Xe4HPejIu+c8KAoTqKNzgaAON/HeQDzUlFhfTxlEbHi/0MCYEuPPmQ8HAI2mPv2FfJal3kgw/s1jQonM2A==",
+  "dgSpecHash": "1LzwNPiuCZwz18LbKSQ4c3/66AJpD0WNAdRUCpHGbeAN/UGikX6cvmiEZ8s1iVy/fvzPVHE17J6KttvCQ6ctow==",
   "success": true,
-  "projectFilePath": "D:\\GitTestProject\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
