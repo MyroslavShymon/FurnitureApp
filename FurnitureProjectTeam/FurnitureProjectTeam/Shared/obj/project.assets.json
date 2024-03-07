@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\matok\\.nuget\\packages\\": {}
+    "C:\\Users\\Asus\\.nuget\\packages\\": {},
+    "D:\\c++\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitTestProject\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
+      "projectUniqueName": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
       "projectName": "FurnitureProjectTeam.Shared",
-      "projectPath": "D:\\GitTestProject\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
-      "packagesPath": "C:\\Users\\matok\\.nuget\\packages\\",
-      "outputPath": "D:\\GitTestProject\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\obj\\",
+      "projectPath": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\FurnitureProjectTeam.Shared.csproj",
+      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+      "outputPath": "D:\\FurnitureApp\\FurnitureApp\\FurnitureProjectTeam\\FurnitureProjectTeam\\Shared\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\c++\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\matok\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -41,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -57,12 +66,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

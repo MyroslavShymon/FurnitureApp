@@ -1,0 +1,12 @@
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\bin\Debug\net7.0\FurnitureProjectTeam.Shared.deps.json
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\bin\Debug\net7.0\FurnitureProjectTeam.Shared.dll
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\bin\Debug\net7.0\FurnitureProjectTeam.Shared.pdb
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.AssemblyInfoInputs.cache
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.AssemblyInfo.cs
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.csproj.CoreCompileInputs.cache
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.sourcelink.json
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.dll
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\refint\FurnitureProjectTeam.Shared.dll
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\FurnitureProjectTeam.Shared.pdb
+D:\FurnitureApp\FurnitureApp\FurnitureProjectTeam\FurnitureProjectTeam\Shared\obj\Debug\net7.0\ref\FurnitureProjectTeam.Shared.dll
